@@ -5,6 +5,7 @@ dataset*/
 *.zip
 __pycache__/
 *.pyc
+venv/
 .venv/
 .env
 .DS_Store

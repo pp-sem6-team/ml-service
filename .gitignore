@@ -1,0 +1,10 @@
+*.pth
+*.pt
+*.h5
+dataset*/
+*.zip
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store

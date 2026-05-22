@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+*.pth
+*.pt
+*.h5
+dataset*/
+*.zip
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+.DS_Store
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +218,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+>>>>>>> 68ff3dd493326d4569c75fb02986c22a0e21a715
